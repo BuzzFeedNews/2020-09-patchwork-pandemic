@@ -215,3 +215,4 @@ p1 / p2
 <br>
 
 <img src = "img/us_daily_cases_deaths.png">
+
