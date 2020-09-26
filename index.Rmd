@@ -4,7 +4,7 @@
 knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
 ```
 
-Data and [R](https://www.r-project.org/) code used to make the maps and charts in this [Sep. 25, 2020 BuzzFeed News post](https://www.buzzfeednews.com/article/peteraldhous/us-coronavirus-patchwork-pandemic-maps) on shifting local hotspots of COVID-19 cases and deaths. Supporting files are in [this GitHub repository](https://github.com/BuzzFeedNews/2020-09-patchwork-pandemic).
+Data and [R](https://www.r-project.org/) code used to make the maps and charts in this [Sep. 26, 2020 BuzzFeed News post](https://www.buzzfeednews.com/article/peteraldhous/us-coronavirus-patchwork-pandemic-maps) on shifting local hotspots of COVID-19 cases and deaths. Supporting files are in [this GitHub repository](https://github.com/BuzzFeedNews/2020-09-patchwork-pandemic).
 
 ### Setting up 
 
