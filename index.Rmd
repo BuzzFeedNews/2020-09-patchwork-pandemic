@@ -1,4 +1,7 @@
-# COVID-19 Never Came Under Control In The US. It Just Shifted From Place To Place. 
+---
+title: "America’s “Patchwork Pandemic” Is Why We Haven’t Gotten COVID-19 Under Control"
+output: html_document
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, eval = FALSE)
