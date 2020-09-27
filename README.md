@@ -1,4 +1,4 @@
-# COVID-19 Never Came Under Control In The US. It Just Shifted From Place To Place.
+# America’s “Patchwork Pandemic” Is Why We Haven’t Gotten COVID-19 Under Control
 
 [R](https://www.r-project.org/) code to reproduce the analysis and charts underlying this Sept. 26, 2020 [BuzzFeed News article](https://www.buzzfeednews.com/article/peteraldhous/us-coronavirus-patchwork-pandemic-maps) on shifting hotspots of COVID-19 cases and deaths across the US.
 
